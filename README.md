@@ -1,4 +1,3 @@
-# Erick-Sartori
-15 anos
+ola meu nome é Erick  Sartori
 jogador de  basquete 
 cursando desenvolvimento de sistemas
