@@ -1,0 +1,15 @@
+body{
+    background-color: cyan;
+    border-radius: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    text-align: center;
+    font-size: x-large;
+    background-color: darkcyan;
+    border-radius: 20%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+
+}
