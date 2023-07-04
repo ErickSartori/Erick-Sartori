@@ -1,0 +1,14 @@
+body{
+    font-size: xx-large;
+    text-align: center;
+    background-color: darkorange;
+}
+div{
+    background-color: darkorange;
+    text-align: center;
+    height: 80px;
+    width: 100%;
+    font-weight: 100;
+    font-style: oblique;
+    border-radius: 20%;
+}
