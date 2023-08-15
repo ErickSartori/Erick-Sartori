@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    background-color: wheat;
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-size: cover;
+    height: 400px;
+}
+p{
+    height: 90px;
+    font-weight: 100;
+}
