@@ -1,0 +1,26 @@
+body{
+    background-color: wheat;
+    text-align: center;
+    font-size: xx-large;
+    height: max-content;
+    text-shadow: aliceblue;
+    color: black;
+    background-position: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+script{
+    background-color: bisque;
+    height: 300px;
+    color: black;
+}
+form{
+    background-color: antiquewhite;
+    height: 600px;
+    text-align: center;
+    text-shadow: blue;
+    color: black;
+}
+p{
+    color: black;
+}
